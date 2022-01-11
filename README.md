@@ -5,5 +5,8 @@
 # bouman ggz
 https://nl.wikipedia.org/wiki/Bouman_GGZ
 
+# isoleercel
+https://nl.wikipedia.org/wiki/Isoleercel
+
 # bemoeizorg
 https://nl.wikipedia.org/wiki/Bemoeizorg
